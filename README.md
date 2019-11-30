@@ -1,2 +1,2 @@
-# summers-school-2019
-Summer School 2019
+# mongoDB
+:octocat: Populating MongoDB with ICD data
